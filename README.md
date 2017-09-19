@@ -32,12 +32,11 @@ For now the papers are sorted by conference. Selected papers include summaries.
 
 ## ACL'16 Berlin
 
-- Cross & Huang. [Incremental Parsing with Minimal Features Using Bi-Directional LSTM](http://aclweb.org/anthology/P/P16/P16-
-2006.pdf) [[bib]](http://aclweb.org/anthology/P/P16/P16-2006.bib)
+- Cross & Huang. [Incremental Parsing with Minimal Features Using Bi-Directional LSTM](http://aclweb.org/anthology/P/P16/P16-2006.pdf) [[bib]](http://aclweb.org/anthology/P/P16/P16-2006.bib)
 
-## CONLL 2016
+## CONLL'16 Berlin
 
-- Bowman et al. (2016) [Generating Sentences from a Continuous Space](http://www.aclweb.org/anthology/K16-1002)
+- Bowman et al. [Generating Sentences from a Continuous Space](http://www.aclweb.org/anthology/K16-1002)
 
 ## EMNLP'16 Texas
  
@@ -52,9 +51,9 @@ For now the papers are sorted by conference. Selected papers include summaries.
 
 - Kiperwasser & Goldberg. [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations](http://aclweb.org/anthology/Q/Q16/Q16-1023.pdf) [[bib]](http://aclweb.org/anthology/Q/Q16/Q16-1023.bib)
 
-## Arxiv 2016
+## Arxiv '16
 
-- Kalchbrenner et al. (2016) [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
+- Kalchbrenner et al. [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
 
 ## ACL'15 Beijing
 
@@ -62,4 +61,4 @@ For now the papers are sorted by conference. Selected papers include summaries.
 
 ## Misc
 
-- Rush et al. (2015). [Neural Attention Model for Sentence Summarization](https://arxiv.org/abs/1509.00685)
+- Rush et al. [Neural Attention Model for Sentence Summarization](https://arxiv.org/abs/1509.00685)
