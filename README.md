@@ -1,4 +1,7 @@
-# Papers
+# (Incomplete) List of NLP papers that I read
+
+Topics include Neural Machine Translation, Parsing, Syntax, and more. 
+For now the papers are sorted by conference. 
 
 ## Arxiv
 
