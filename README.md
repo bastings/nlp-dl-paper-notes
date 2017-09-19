@@ -15,7 +15,7 @@ For now the papers are sorted by conference. Selected papers include summaries.
 ## ACL'17 Vancouver
 
 - Gehring et al. [A Convolutional Encoder Model for Neural Machine Translation](http://aclweb.org/anthology/P/P17/P17-1012.pdf)
-- [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://arxiv.org/abs/1610.03017)
+- Lee et al. [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://arxiv.org/abs/1610.03017)
 
 ## ICLR'17 Toulon
 
@@ -57,7 +57,7 @@ For now the papers are sorted by conference. Selected papers include summaries.
 
 ## ACL'15 Beijing
 
-- Dyer et al. [Transition-Based Dependency Parsing with Stack Long Short-Term Memory](http://aclweb.org/anthology/P/P15/P15-1033.pdf) [[bib]](http://aclweb.org/anthology/P/P15/P15-1033.bib
+- Dyer et al. [Transition-Based Dependency Parsing with Stack Long Short-Term Memory](http://aclweb.org/anthology/P/P15/P15-1033.pdf) [[bib]](http://aclweb.org/anthology/P/P15/P15-1033.bib)
 
 ## Misc
 
