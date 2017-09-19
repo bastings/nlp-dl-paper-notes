@@ -7,6 +7,7 @@ For now the papers are sorted by conference. Selected papers include summaries.
 
 - Lee et al. [Recurrent Additive Networks](https://arxiv.org/abs/1705.07393)
 
+
 ## EMNLP'17 Copenhagen
 
 - Yang et al. [Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation](http://aclweb.org/anthology/D17-1151)
@@ -15,7 +16,6 @@ For now the papers are sorted by conference. Selected papers include summaries.
 ## ACL'17 Vancouver
 
 - Gehring et al. [A Convolutional Encoder Model for Neural Machine Translation](http://aclweb.org/anthology/P/P17/P17-1012.pdf)
-- Lee et al. [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://arxiv.org/abs/1610.03017)
 
 ## ICLR'17 Toulon
 
@@ -54,6 +54,7 @@ For now the papers are sorted by conference. Selected papers include summaries.
 ## Arxiv '16
 
 - Kalchbrenner et al. [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
+- Lee et al. [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://arxiv.org/abs/1610.03017)
 
 ## ACL'15 Beijing
 
